@@ -22,7 +22,7 @@ author_image: "/assets/images/Me_300_300.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://homayoonalimohammadi.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@HomayoonAlm'
@@ -62,7 +62,7 @@ social:
 #    share_title:
 #    share_link:
 
-  - icon:	RSS
+  - icon:	rss
     url:	http://fetchrss.com/rss/62703cf8be912c49fd06f63262703dcd1f487c45a9685542.xml
     desc:	RSS
     share_url:
