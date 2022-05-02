@@ -22,7 +22,7 @@ author_image: "/assets/images/Me_300_300.jpg"
 
 paginate:	5
 
-url: "https://homayoonalimohammadi.github.io/" # the base hostname & protocol for your site
+url: "https://github.com/HomayoonAlimohammadi/HomayoonAlimohammadi.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@HomayoonAlm'
