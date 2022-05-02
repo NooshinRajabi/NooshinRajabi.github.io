@@ -9,9 +9,9 @@ layout: default
 </div>
 
 <header class="blog-header">
-    {% if site.logo %}
-      <a class="blog-logo" href="{{site.url}}{{site.baseurl}}" style="background-image: url({{ site.logo | prepend: site.baseurl }})">{{ site.title }}</a>
-    {% endif %}
+      <div class="blog-logo" {% if site.logo %}style="background-image: url({{ site.logo | prepend: site.baseurl }})"{% endif %}>
+        {{ site.title }}
+      </div>
     <h1 class="blog-title">{{ site.title }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
