@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "First Post!"
-date:   2022-05-03 02:31:00
-image: /assets/article_images/about/2022-05-03-First-Post/Cover.jpg
+date:   2022-03-05 02:31:00
+image: /assets/article_images/about/2022-03-05-First-Post/Cover.jpg
 ---
 
 Welcome to my personal website! 
