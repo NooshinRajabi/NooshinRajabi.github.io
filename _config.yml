@@ -14,11 +14,11 @@ logo: "/assets/images/Logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/Cover.jpg"
+cover: "/assets/images/Cover_2.jpg"
 
 name: 'Homayoon Alimohammadi'
 author: 'Homayoon Alimohammadi'
-author_image: "/assets/images/Me.jpg"
+author_image: "/assets/images/Me_300_300.jpg"
 
 paginate:	5
 
@@ -61,3 +61,10 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+  - icon:	RSS
+    url:	http://fetchrss.com/rss/62703cf8be912c49fd06f63262703dcd1f487c45a9685542.xml
+    desc:	RSS
+    share_url:
+    share_title:
+    share_link:
