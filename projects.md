@@ -21,9 +21,6 @@ Built an E-Commerce Web App, Powered by <b>Django</b>, <b>Django REST Framework<
 </li>
 </div>
 
-<br/>
-<br/>
-
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Backend-API-REST">
 <h2><b>Recipe App</b></h2>
@@ -32,9 +29,6 @@ Built an E-Commerce Web App, Powered by <b>Django</b>, <b>Django REST Framework<
 Built a Backend API with <b>Django REST Framework</b> with <b>Test Driven Development</b> in mind
 </li>
 </div>
-
-<br/>
-<br/>
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Commerce">
@@ -51,9 +45,6 @@ Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootst
 </li>
 </div>
 
-<br/>
-<br/>
-
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Mail">
 <h2><b>Email App</b></h2>
@@ -61,9 +52,6 @@ Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootst
 <li>
 Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b>, specifically <b>React</b>
 </div>
-
-<br/>
-<br/>
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Prostate-Segmentation">

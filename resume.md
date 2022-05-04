@@ -4,16 +4,15 @@ title: Resume
 permalink: /resume/
 ---
 
-<b><h1>About Me</h1></b>
+<h1><b>About Me</b></h1>
 <h3>
 Passionate, Creative and Hard-working <b>Full Stack Developer</b>. Experienced and Interested in <b>Data Science</b> and <b>Machine Learning</b>. Extremely eager to learn new things each and everyday.  
 Also considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> as my long-term career path.
 </h3>
 
 <br/>
-<br/>
 
-<b><h1>Work Experience</h1></b>
+<h1><b>Work Experience</b></h1>
 
 <div>
 <h2><b>AI Developer</b></h2>
@@ -38,8 +37,6 @@ Multiple Semantic Segmentation projects for various image datasets in the regard
 </li>
 </div>
 
-<br/>
-<br/>
 
 <div>
 <h2><b>Deep Learning Course TA</b></h2>
@@ -58,8 +55,6 @@ Trained about 15 competent Data Science and Deep Learning students.
 </li>
 </div>
 
-<br/>
-<br/>
 
 <div>
 <h2><b>Deep Learning Apprentice</b></h2>
@@ -80,8 +75,7 @@ Achieved a competitive model with a dice score of 0.92/1 regarding semantic segm
 </div>
 
 <br/>
-<br/>
-<br/>
+
 
 <h1><b>Education</b></h1>
 
@@ -99,9 +93,6 @@ Investigating various usecases of Machine Learning in MSE
 </li>
 </div>
 
-<br/>
-<br/>
-
 <div>
 <h2><b>High School Diploma</b></h2>
 <a href="https://en.wikipedia.org/wiki/Allameh_Helli_High_Schools">
@@ -114,8 +105,7 @@ Allame-Helli 1 High School
 </div>
 
 <br/>
-<br/>
-<br/>
+
 
 <h1><b>Skills</b></h1>
 
@@ -140,8 +130,7 @@ Allame-Helli 1 High School
 <img align=center src="https://img.shields.io/badge/Object Orientation-informational?style=for-the-badge&color=292A2D" />
 
 <br/>
-<br/>
-<br/>
+
 <h1><b>Projects</b></h1>
 
 <div>
@@ -159,8 +148,6 @@ Built an E-Commerce Web App, Powered by <b>Django</b>, <b>Django REST Framework<
 </li>
 </div>
 
-<br/>
-<br/>
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Backend-API-REST">
@@ -171,8 +158,6 @@ Built a Backend API with <b>Django REST Framework</b> with <b>Test Driven Develo
 </li>
 </div>
 
-<br/>
-<br/>
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Commerce">
@@ -200,8 +185,6 @@ Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootst
 Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b>, specifically <b>React</b>
 </div>
 
-<br/>
-<br/>
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Prostate-Segmentation">
@@ -211,8 +194,6 @@ Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HT
 Built a competitive model with a <b>Dice Score</b> of 0.92/1 regarding semantic segmentation of PCa MRI Images. <br/> 
 </div>
 
-<br/>
-<br/>
 <br/>
 
 <h1><b>Courses</b></h1>
@@ -250,8 +231,6 @@ Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=2
 </h3>
 
 <br/>
-<br/>
-<br/>
 
 <h1><b>Achievements</b></h1>
 
@@ -260,8 +239,6 @@ Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=2
 </h3>
 
 <br/>
-<br/>
-<br/>
 
 <h1><b>Languages</b></h1>
 <h2><b>Persian</b></h2>
@@ -269,8 +246,6 @@ Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=2
 <h2><b>English</b></h2>
 <li>Full Professional Proficiency</li>
 
-<br/>
-<br/>
 <br/>
 
 <h1><b>Interests</b></h1>
