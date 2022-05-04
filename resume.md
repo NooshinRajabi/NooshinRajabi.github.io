@@ -13,13 +13,12 @@ Also considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> 
 </p>
 </div>
 
-<br/>
 
 <hr>
 <h2><b>Work Experience</b></h2>
 <hr>
 <div>
-<p><b>AI Developer</b></p>
+<h3>AI Developer</h3>
 <a href="https://cnam.ir/">
 <p>
 Research Center of Nanostructured and Advanced Materials (CNAM)
@@ -44,7 +43,7 @@ Multiple Semantic Segmentation projects for various image datasets in the regard
 <br/>
 
 <div>
-<p><b>Deep Learning Course TA</b></p>
+<h3>Deep Learning Course TA</h3>
 <a href="https://aimedic.co/">
 <p>
 AI-Medic
@@ -63,7 +62,7 @@ Trained about 15 competent Data Science and Deep Learning students.
 <br/>
 
 <div>
-<p><b>Deep Learning Apprentice</b></p>
+<h3>Deep Learning Apprentice</h3>
 <a href="https://aimedic.co/">
 <p>
 AI-Medic
@@ -76,7 +75,6 @@ AI-Medic is a start-up studio, aiming to offer AI products in the healthcare ind
 <b>Achievements and Tasks</b>
 <li>
 Achieved a competitive model with a dice score of 0.92/1 regarding semantic segmentation of PCa MRI Images. <br/> 
-<b>Feel free to checkout the <a href="https://github.com/HomayoonAlimohammadi/Prostate-Segmentation">Project</a></b>
 </li>
 </div>
 
@@ -85,36 +83,39 @@ Achieved a competitive model with a dice score of 0.92/1 regarding semantic segm
 <h2><b>Education</b></h2>
 <hr>
 <div>
-<p><b>BSc. in Materials Science and Engineering</b></p>
+<p><b>BSc. in Materials Science and Engineering</b>
 <a href="https://en.sharif.edu/">
-<p>
+
 Sharif University of Technology
-</p>
+
 </a>
 <b>08/2018 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b>
-<p>Project:</p>
+<br/>
+Project:
 <li>
 Investigating various usecases of Machine Learning in MSE
 </li>
+</p>
 </div>
 
 <br/>
 
 <div>
-<p><b>High School Diploma</b></p>
+<p><b>High School Diploma</b>
 <a href="https://en.wikipedia.org/wiki/Allameh_Helli_High_Schools">
-<p>
 Allame-Helli 1 High School
-</p>
 </a>
-<b>08/2018 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b>
-<p>GPA: &emsp; 19.96 / 20</p>
+<b>08/2018 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b><br/>
+GPA: &emsp; 19.96 / 20
+</p>
 </div>
 
 
 <hr>
 <h2><b>Skills</b></h2>
 <hr>
+Python &emsp; - &emsp; Django &emsp; - &emsp; Django REST Framework &emsp; - &emsp; PostgreSQL &emsp; - &emsp; MongoDB &emsp; - &emsp; JavaScript &emsp; - &emsp; React &emsp; - &emsp; HTML &emsp; - &emsp; CSS &emsp; - &emsp; Redux &emsp; - &emsp; Axios &emsp; - &emsp; Test Driven Development &emsp; - &emsp; CI / CD &emsp; - &emsp; Docker &emsp; - &emsp; Linux &emsp; - &emsp; Data Science and Analysis &emsp; - &emsp; Deep Learning &emsp; - &emsp; Design Patterns &emsp; - &emsp; Object Orientation 
+<!-- 
 <img align=center src="https://img.shields.io/badge/Python-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Django-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Django Rest Framework-informational?style=for-the-badge&color=292A2D" />
@@ -133,7 +134,7 @@ Allame-Helli 1 High School
 <img align=center src="https://img.shields.io/badge/Data Science and Analysis-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Deep Learning-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Design Patterns-informational?style=for-the-badge&color=292A2D" />
-<img align=center src="https://img.shields.io/badge/Object Orientation-informational?style=for-the-badge&color=292A2D" />
+<img align=center src="https://img.shields.io/badge/Object Orientation-informational?style=for-the-badge&color=292A2D" /> -->
 
 <br/>
 <hr>
@@ -141,16 +142,16 @@ Allame-Helli 1 High School
 <hr>
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/eCommerce-Django-React">
-<p><b>E-Commerce Web App v2.0</b></p>
+<h3>E-Commerce Web App v2.0</h3>
 </a>
 <li>
-Built an E-Commerce Web App, Powered by <b>Django</b>, <b>Django REST Framework</b> and <b>JWT</b> paired with an amazing <b>Single App</b> Front-end paradigm, with the help of <b>React</b>, <b>Redux</b>, <b>Axios</b>, <b>React Bootstrap</b> and many more.
+Built an E-Commerce Web App, Powered by Django, Django REST Framework and JWT paired with an amazing Single App Front-end paradigm, with the help of React, Redux, Axios, React Bootstrap and many more.
 </li>
 <li>
-<b>PostgreSQL</b> was used as the Database of the project
+PostgreSQL was used as the Database of the project
 </li>
 <li>
-<b>CI/CD</b> were taken case of by the means of <b>Unit Testing</b>, <b>GitHub Workflows</b> and <b>Docker</b>
+CI/CD were taken case of by the means of Unit Testing, GitHub Workflows and Docker
 </li>
 </div>
 
@@ -158,10 +159,10 @@ Built an E-Commerce Web App, Powered by <b>Django</b>, <b>Django REST Framework<
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Backend-API-REST">
-<p><b>Recipe App</b></p>
+<h3>Recipe App</h3>
 </a>
 <li>
-Built a Backend API with <b>Django REST Framework</b> with <b>Test Driven Development</b> in mind
+Built a Backend API with Django REST Framework with Test Driven Development in mind
 </li>
 </div>
 
@@ -169,16 +170,16 @@ Built a Backend API with <b>Django REST Framework</b> with <b>Test Driven Develo
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Commerce">
-<p><b>E-Commerce Web App v1.0</b></p>
+<h3>E-Commerce Web App v1.0</h3>
 </a>
 <li>
 Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootstrap
 </li>
 <li>
-<b>PostgreSQL</b> was used as the Database of the project
+PostgreSQL was used as the Database of the project
 </li>
 <li>
-<b>CI/CD</b> were taken case of by the means of <b>Unit Testing</b>, <b>GitHub Workflows</b> and <b>Docker</b>
+CI/CD were taken case of by the means of Unit Testing, GitHub Workflows and Docker
 </li>
 </div>
 
@@ -186,10 +187,10 @@ Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootst
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Mail">
-<p><b>Email App</b></p>
+<h3>Email App</h3>
 </a>
 <li>
-Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b>, specifically <b>React</b>
+Developed a Single Page Application with the help of Django, HTML, CSS and JavaScript, specifically React
 </li>
 </div>
 
@@ -197,10 +198,10 @@ Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HT
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Prostate-Segmentation">
-<p><b>Prostate Semantic Segmentation</b></p>
+<h3>Prostate Semantic Segmentation</h3>
 </a>
 <li>
-Built a competitive model with a <b>Dice Score</b> of 0.92/1 regarding semantic segmentation of PCa MRI Images. 
+Built a competitive model with a Dice Score of 0.92/1 regarding semantic segmentation of PCa MRI Images. 
 </li>
 </div>
 
@@ -246,23 +247,23 @@ Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=2
 <div>
 <h2><b>Achievements</b></h2>
 <hr>
-<p><b>Ranked top 0.5%</b></p>
+<p><b>Ranked top 0.5%</b>
 Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
+</p>
 </div>
 <hr>
 <div>
 <h2><b>Languages</b></h2>
 <hr>
-<p><b>Persian</b></p>
+<p><b>Persian</b>
 <li>Native</li>
-<p><b>English</b></p>
+<p><b>English</b>
 <li>Full Professional Proficiency</li>
+</p>
 </div>
 <hr>
 <div>
 <h2><b>Interests</b></h2>
 <hr>
-<img align=center src="https://img.shields.io/badge/Blockchain-informational?style=for-the-badge&color=292A2D" />
-<img align=center src="https://img.shields.io/badge/Cloud Computing-informational?style=for-the-badge&color=292A2D" />
-<img align=center src="https://img.shields.io/badge/Machine Learning-informational?style=for-the-badge&color=292A2D" />
+Blockchain &emsp; - &emsp; Cload Computing &emsp; - &emsp; Distributed Systems &emsp; - &emsp; Machine Learning
 </div>
