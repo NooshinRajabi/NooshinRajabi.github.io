@@ -142,12 +142,11 @@ Allame-Helli 1 High School
 <br/>
 <br/>
 <br/>
-
 <h1><b>Projects</b></h1>
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/eCommerce-Django-React">
-<h2>E-Commerce Web App v2.0</h2>
+<h2><b>E-Commerce Web App v2.0</b></h2>
 </a>
 <li>
 Built an E-Commerce Web App, Powered by <b>Django</b>, <b>Django REST Framework</b> and <b>JWT</b> paired with an amazing <b>Single App</b> Front-end paradigm, with the help of <b>React</b>, <b>Redux</b>, <b>Axios</b>, <b>React Bootstrap</b> and many more.
@@ -165,7 +164,7 @@ Built an E-Commerce Web App, Powered by <b>Django</b>, <b>Django REST Framework<
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Backend-API-REST">
-<h2>Recipe App</h2>
+<h2><b>Recipe App</b></h2>
 </a>
 <li>
 Built a Backend API with <b>Django REST Framework</b> with <b>Test Driven Development</b> in mind
@@ -177,7 +176,7 @@ Built a Backend API with <b>Django REST Framework</b> with <b>Test Driven Develo
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Commerce">
-<h2>E-Commerce Web App v1.0</h2>
+<h2><b>E-Commerce Web App v1.0</b></h2>
 </a>
 <li>
 Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootstrap
@@ -195,10 +194,21 @@ Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootst
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Mail">
-<h2>Email App</h2>
+<h2><b>Email App</b></h2>
 </a>
 <li>
 Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b>, specifically <b>React</b>
+</div>
+
+<br/>
+<br/>
+
+<div>
+<a href="https://github.com/HomayoonAlimohammadi/Prostate-Segmentation">
+<h2><b>Prostate Semantic Segmentation</b></h2>
+</a>
+<li>
+Built a competitive model with a <b>Dice Score</b> of 0.92/1 regarding semantic segmentation of PCa MRI Images. <br/> 
 </div>
 
 <br/>
@@ -245,7 +255,7 @@ Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=2
 
 <h1><b>Achievements</b></h1>
 
-<h2>Ranked top 0.5%</h2>
+<h2><b>Ranked top 0.5%</b></h2>
 <h3>Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
 </h3>
 
@@ -265,13 +275,7 @@ Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=2
 
 <h1><b>Interests</b></h1>
 <h3>
-<li>
-Blockchain
-</li>
-<li>
-Machine Learning
-</li>
-<li>
-Cloud Computing
-</li>
+<img align=center src="https://img.shields.io/badge/Blockchain-informational?style=for-the-badge&color=292A2D" />
+<img align=center src="https://img.shields.io/badge/Cloud Computing-informational?style=for-the-badge&color=292A2D" />
+<img align=center src="https://img.shields.io/badge/Machine Learning-informational?style=for-the-badge&color=292A2D" />
 </h3>
