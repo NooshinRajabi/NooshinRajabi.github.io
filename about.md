@@ -21,15 +21,15 @@ Make sure to <b>Contact</b> me if you needed to:
 <div align="center">
 
 <a href="https://homayoonalimohammadi.github.io">
-<img align="center" alt="linkedin" src="https://img.shields.io/badge/GitHub.io-silver?style=for-the-badge&logo=GitHub&logoColor=black">
+<img alt="github" src="https://img.shields.io/badge/GitHub.io-silver?style=for-the-badge&logo=GitHub&logoColor=black">
 </a>
 
 <a href="https://www.linkedin.com/in/homayoon-alimohammadi/">
-<img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://twitter.com/homayoonalm">
-<img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
+<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 
 </div>

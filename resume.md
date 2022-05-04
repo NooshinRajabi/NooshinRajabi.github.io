@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 <div>
 <hr>
-<h1><b>About Me</b></h1>
+<h2><b>About Me</b></h2>
 <hr>
 <p>
 Passionate, Creative and Hard-working <b>Full Stack Developer</b>. Experienced and Interested in <b>Data Science</b> and <b>Machine Learning</b>. Extremely eager to learn new things each and everyday.  
@@ -13,15 +13,17 @@ Also considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> 
 </p>
 </div>
 
+<br/>
+
 <hr>
-<h1><b>Work Experience</b></h1>
+<h2><b>Work Experience</b></h2>
 <hr>
 <div>
-<h3><b>AI Developer</b></h3>
+<p><b>AI Developer</b></p>
 <a href="https://cnam.ir/">
-<h4>
+<p>
 Research Center of Nanostructured and Advanced Materials (CNAM)
-</h4>
+</p>
 </a>
 <b>05/2021 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b>
 <p>
@@ -39,13 +41,14 @@ Multiple Semantic Segmentation projects for various image datasets in the regard
 </li>
 </div>
 
+<br/>
 
 <div>
-<h3><b>Deep Learning Course TA</b></h3>
+<p><b>Deep Learning Course TA</b></p>
 <a href="https://aimedic.co/">
-<h4>
+<p>
 AI-Medic
-</h4>
+</p>
 </a>
 <b>08/2021 - 10/2021 &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b>
 <p>
@@ -57,13 +60,14 @@ Trained about 15 competent Data Science and Deep Learning students.
 </li>
 </div>
 
+<br/>
 
 <div>
-<h3><b>Deep Learning Apprentice</b></h3>
+<p><b>Deep Learning Apprentice</b></p>
 <a href="https://aimedic.co/">
-<h4>
+<p>
 AI-Medic
-</h4>
+</p>
 </a>
 <b>08/2021 - 10/2021 &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b>
 <p>
@@ -78,36 +82,38 @@ Achieved a competitive model with a dice score of 0.92/1 regarding semantic segm
 
 
 <hr>
-<h1><b>Education</b></h1>
+<h2><b>Education</b></h2>
 <hr>
 <div>
-<h3><b>BSc. in Materials Science and Engineering</b></h3>
+<p><b>BSc. in Materials Science and Engineering</b></p>
 <a href="https://en.sharif.edu/">
-<h4>
+<p>
 Sharif University of Technology
-</h4>
+</p>
 </a>
 <b>08/2018 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b>
-<h4>Project:</h4>
+<p>Project:</p>
 <li>
 Investigating various usecases of Machine Learning in MSE
 </li>
 </div>
 
+<br/>
+
 <div>
-<h3><b>High School Diploma</b></h3>
+<p><b>High School Diploma</b></p>
 <a href="https://en.wikipedia.org/wiki/Allameh_Helli_High_Schools">
-<h4>
+<p>
 Allame-Helli 1 High School
-</h4>
+</p>
 </a>
 <b>08/2018 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b>
-<h4>GPA: &emsp; 19.96 / 20</h4>
+<p>GPA: &emsp; 19.96 / 20</p>
 </div>
 
 
 <hr>
-<h1><b>Skills</b></h1>
+<h2><b>Skills</b></h2>
 <hr>
 <img align=center src="https://img.shields.io/badge/Python-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Django-informational?style=for-the-badge&color=292A2D" />
@@ -131,11 +137,11 @@ Allame-Helli 1 High School
 
 <br/>
 <hr>
-<h1><b>Projects</b></h1>
+<h2><b>Projects</b></h2>
 <hr>
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/eCommerce-Django-React">
-<h3><b>E-Commerce Web App v2.0</b></h3>
+<p><b>E-Commerce Web App v2.0</b></p>
 </a>
 <li>
 Built an E-Commerce Web App, Powered by <b>Django</b>, <b>Django REST Framework</b> and <b>JWT</b> paired with an amazing <b>Single App</b> Front-end paradigm, with the help of <b>React</b>, <b>Redux</b>, <b>Axios</b>, <b>React Bootstrap</b> and many more.
@@ -148,20 +154,22 @@ Built an E-Commerce Web App, Powered by <b>Django</b>, <b>Django REST Framework<
 </li>
 </div>
 
+<br/>
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Backend-API-REST">
-<h3><b>Recipe App</b></h3>
+<p><b>Recipe App</b></p>
 </a>
 <li>
 Built a Backend API with <b>Django REST Framework</b> with <b>Test Driven Development</b> in mind
 </li>
 </div>
 
+<br/>
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Commerce">
-<h3><b>E-Commerce Web App v1.0</b></h3>
+<p><b>E-Commerce Web App v1.0</b></p>
 </a>
 <li>
 Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootstrap
@@ -174,19 +182,22 @@ Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootst
 </li>
 </div>
 
+<br/>
+
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Mail">
-<h3><b>Email App</b></h3>
+<p><b>Email App</b></p>
 </a>
 <li>
 Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b>, specifically <b>React</b>
 </li>
 </div>
 
+<br/>
 
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Prostate-Segmentation">
-<h3><b>Prostate Semantic Segmentation</b></h3>
+<p><b>Prostate Semantic Segmentation</b></p>
 </a>
 <li>
 Built a competitive model with a <b>Dice Score</b> of 0.92/1 regarding semantic segmentation of PCa MRI Images. 
@@ -197,7 +208,7 @@ Built a competitive model with a <b>Dice Score</b> of 0.92/1 regarding semantic 
 <div>
 <h1><b>Courses</b></h1>
 <hr>
-<h4>
+<p>
 <li>
 Software Engineering - <a href="https://www.edx.org/course/software-engineering-introduction?index=product&queryID=27fd68f09ae1f8a6987a3ccfa62143f3&position=1">edX</a>
 </li>
@@ -228,28 +239,28 @@ Django Framework - <a href="https://www.youtube.com/watch?v=SlHBNXW1rTk&list=PLE
 <li>
 Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=20828s&ab_channel=CodingEntrepreneurs">Youtube</a>
 </li>
-</h4>
+</p>
 </div>
 
 <hr>
 <div>
-<h1><b>Achievements</b></h1>
+<h2><b>Achievements</b></h2>
 <hr>
-<h3><b>Ranked top 0.5%</b></h3>
+<p><b>Ranked top 0.5%</b></p>
 Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
 </div>
 <hr>
 <div>
-<h1><b>Languages</b></h1>
+<h2><b>Languages</b></h2>
 <hr>
-<h3><b>Persian</b></h3>
+<p><b>Persian</b></p>
 <li>Native</li>
-<h3><b>English</b></h3>
+<p><b>English</b></p>
 <li>Full Professional Proficiency</li>
 </div>
 <hr>
 <div>
-<h1><b>Interests</b></h1>
+<h2><b>Interests</b></h2>
 <hr>
 <img align=center src="https://img.shields.io/badge/Blockchain-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Cloud Computing-informational?style=for-the-badge&color=292A2D" />
