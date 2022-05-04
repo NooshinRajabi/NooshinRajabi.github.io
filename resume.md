@@ -249,14 +249,13 @@ Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
 <div>
 <h2><b>Languages</b></h2>
 <hr>
-<p><b>Persian</b>
-<li>Native</li></p>
-<p><b>English</b>
-<li>Full Professional Proficiency</li>
+<p>
+<b>Persian:</b> Native <br/>
+<b>English:</b> Full Professional Proficiency
 </p>
 </div>
 <hr>
-<article>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
 <h2><b>Interests</b></h2>
 <hr>
 <p>
