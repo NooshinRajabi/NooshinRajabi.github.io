@@ -254,9 +254,9 @@ Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=2
 <br/>
 
 <h1><b>Languages</b></h1>
-<h2>Persian</h2>
+<h2><b>Persian</b></h2>
 <li>Native</li>
-<h2>English</h2>
+<h2><b>English</b></h2>
 <li>Full Professional Proficiency</li>
 
 <br/>
