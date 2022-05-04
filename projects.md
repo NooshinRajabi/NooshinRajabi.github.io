@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1><b>Projects</b></h1>
-
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/eCommerce-Django-React">
 <h2><b>E-Commerce Web App v2.0</b></h2>
@@ -51,6 +49,7 @@ Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootst
 </a>
 <li>
 Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HTML</b>, <b>CSS</b> and <b>JavaScript</b>, specifically <b>React</b>
+</li>
 </div>
 
 <div>
@@ -58,5 +57,6 @@ Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HT
 <h2><b>Prostate Semantic Segmentation</b></h2>
 </a>
 <li>
-Built a competitive model with a <b>Dice Score</b> of 0.92/1 regarding semantic segmentation of PCa MRI Images. <br/> 
+Built a competitive model with a <b>Dice Score</b> of 0.92/1 regarding semantic segmentation of PCa MRI Images. 
+</li>
 </div>
