@@ -114,7 +114,9 @@ GPA: &emsp; 19.96 / 20
 <hr>
 <h2><b>Skills</b></h2>
 <hr>
+<p>
 Python &emsp; - &emsp; Django &emsp; - &emsp; Django REST Framework &emsp; - &emsp; PostgreSQL &emsp; - &emsp; MongoDB &emsp; - &emsp; JavaScript &emsp; - &emsp; React &emsp; - &emsp; HTML &emsp; - &emsp; CSS &emsp; - &emsp; Redux &emsp; - &emsp; Axios &emsp; - &emsp; Test Driven Development &emsp; - &emsp; CI / CD &emsp; - &emsp; Docker &emsp; - &emsp; Linux &emsp; - &emsp; Data Science and Analysis &emsp; - &emsp; Deep Learning &emsp; - &emsp; Design Patterns &emsp; - &emsp; Object Orientation 
+</p>
 <!-- 
 <img align=center src="https://img.shields.io/badge/Python-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Django-informational?style=for-the-badge&color=292A2D" />
@@ -265,5 +267,7 @@ Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
 <div>
 <h2><b>Interests</b></h2>
 <hr>
+<p>
 Blockchain &emsp; - &emsp; Cload Computing &emsp; - &emsp; Distributed Systems &emsp; - &emsp; Machine Learning
+</p>
 </div>
