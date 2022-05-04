@@ -83,29 +83,21 @@ Achieved a competitive model with a dice score of 0.92/1 regarding semantic segm
 <h2><b>Education</b></h2>
 <hr>
 <div>
-<p><b>BSc. in Materials Science and Engineering</b>
+<p><b>BSc. in Materials Science and Engineering</b><br/>
 <a href="https://en.sharif.edu/">
-
 Sharif University of Technology
-
-</a>
-<b>08/2018 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b>
-<br/>
-Project:
-<li>
-Investigating various usecases of Machine Learning in MSE
-</li>
+</a><br/>
+08/2018 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran<br/>
+Project: Investigating various usecases of Machine Learning in MSE
 </p>
-</div>
-
-<br/>
+</div><br/>
 
 <div>
-<p><b>High School Diploma</b>
+<p><b>High School Diploma</b><br/>
 <a href="https://en.wikipedia.org/wiki/Allameh_Helli_High_Schools">
 Allame-Helli 1 High School
-</a>
-<b>08/2018 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran</b><br/>
+</a><br/>
+08/2018 - Present &emsp;&emsp;&emsp;&emsp; Tehran, Iran<br/>
 GPA: &emsp; 19.96 / 20
 </p>
 </div>
@@ -258,7 +250,7 @@ Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
 <h2><b>Languages</b></h2>
 <hr>
 <p><b>Persian</b>
-<li>Native</li>
+<li>Native</li></p>
 <p><b>English</b>
 <li>Full Professional Proficiency</li>
 </p>
