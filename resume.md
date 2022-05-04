@@ -4,16 +4,16 @@ title: Resume
 permalink: /resume/
 ---
 
+<div>
 <h1><b>About Me</b></h1>
-<h3>
+<hr>
 Passionate, Creative and Hard-working <b>Full Stack Developer</b>. Experienced and Interested in <b>Data Science</b> and <b>Machine Learning</b>. Extremely eager to learn new things each and everyday.  
 Also considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> as my long-term career path.
-</h3>
+</div>
 
-<br/>
 
 <h1><b>Work Experience</b></h1>
-
+<hr>
 <div>
 <h2><b>AI Developer</b></h2>
 <a href="https://cnam.ir/">
@@ -78,7 +78,7 @@ Achieved a competitive model with a dice score of 0.92/1 regarding semantic segm
 
 
 <h1><b>Education</b></h1>
-
+<hr>
 <div>
 <h2><b>BSc. in Materials Science and Engineering</b></h2>
 <a href="https://en.sharif.edu/">
@@ -108,7 +108,7 @@ Allame-Helli 1 High School
 
 
 <h1><b>Skills</b></h1>
-
+<hr>
 <img align=center src="https://img.shields.io/badge/Python-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Django-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Django Rest Framework-informational?style=for-the-badge&color=292A2D" />
@@ -132,7 +132,7 @@ Allame-Helli 1 High School
 <br/>
 
 <h1><b>Projects</b></h1>
-
+<hr>
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/eCommerce-Django-React">
 <h2><b>E-Commerce Web App v2.0</b></h2>
@@ -174,9 +174,6 @@ Built an E-Commerce Web App, Powered by Django, with simple HTML, CSS and Bootst
 </li>
 </div>
 
-<br/>
-<br/>
-
 <div>
 <a href="https://github.com/HomayoonAlimohammadi/Mail">
 <h2><b>Email App</b></h2>
@@ -194,9 +191,10 @@ Developed a <b>Single Page Application</b> with the help of <b>Django</b>, <b>HT
 Built a competitive model with a <b>Dice Score</b> of 0.92/1 regarding semantic segmentation of PCa MRI Images. <br/> 
 </div>
 
-<br/>
 
+<div>
 <h1><b>Courses</b></h1>
+<hr>
 <h3>
 <li>
 Software Engineering - <a href="https://www.edx.org/course/software-engineering-introduction?index=product&queryID=27fd68f09ae1f8a6987a3ccfa62143f3&position=1">edX</a>
@@ -229,28 +227,29 @@ Django Framework - <a href="https://www.youtube.com/watch?v=SlHBNXW1rTk&list=PLE
 Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=20828s&ab_channel=CodingEntrepreneurs">Youtube</a>
 </li>
 </h3>
+</div>
 
-<br/>
 
+<div>
 <h1><b>Achievements</b></h1>
+<hr>
+<h3><b>Ranked top 0.5%</b></h3>
+Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
+</div>
 
-<h2><b>Ranked top 0.5%</b></h2>
-<h3>Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
-</h3>
-
-<br/>
-
+<div>
 <h1><b>Languages</b></h1>
-<h2><b>Persian</b></h2>
+<hr>
+<h3><b>Persian</b></h3>
 <li>Native</li>
-<h2><b>English</b></h2>
+<h3><b>English</b></h3>
 <li>Full Professional Proficiency</li>
+</div>
 
-<br/>
-
+<div>
 <h1><b>Interests</b></h1>
-<h3>
+<hr>
 <img align=center src="https://img.shields.io/badge/Blockchain-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Cloud Computing-informational?style=for-the-badge&color=292A2D" />
 <img align=center src="https://img.shields.io/badge/Machine Learning-informational?style=for-the-badge&color=292A2D" />
-</h3>
+</div>
