@@ -200,7 +200,7 @@ Built a competitive model with a Dice Score of 0.92/1 regarding semantic segment
 </div>
 
 <hr>
-<div>
+
 <h1><b>Courses</b></h1>
 <hr>
 <p>
@@ -235,38 +235,29 @@ Django Framework - <a href="https://www.youtube.com/watch?v=SlHBNXW1rTk&list=PLE
 Django REST Framework - <a href="https://www.youtube.com/watch?v=c708Nf0cHrs&t=20828s&ab_channel=CodingEntrepreneurs">Youtube</a>
 </li>
 </p>
-</div>
+
 
 <hr>
-<div>
+
 <h2><b>Achievements</b></h2>
 <hr>
 <p><b>Ranked top 0.5%</b>
 Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
 </p>
-</div>
+
 <hr>
-<div>
+
 <h2><b>Languages</b></h2>
 <hr>
 <p>
 <b>Persian:</b> Native <br/>
 <b>English:</b> Full Professional Proficiency
 </p>
-</div>
+
 <hr>
-<div>
+
 <h2><b>Interests</b></h2>
 <hr>
 <p>
-<!-- Blockchain &emsp; - &emsp; Cload Computing &emsp; - &emsp; Distributed Systems &emsp; - &emsp; Machine Learning -->
-
-<table>
-    <tr>
-        <td>Blockchain</td>
-        <td>Cloud Computing</td>
-        <td>Distributed Systems</td>    
-    </tr>
-</table>
+Blockchain &emsp; - &emsp; Cload Computing &emsp; - &emsp; Distributed Systems &emsp; - &emsp; Machine Learning
 </p>
-</div>
