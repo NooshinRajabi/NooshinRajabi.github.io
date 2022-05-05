@@ -51,7 +51,7 @@ social:
   - icon:	github
     url:	https://github.com/HomayoonAlimohammadi
     desc:	Follow me on github
-    share_url:
+    share_url: 
     share_title:
     share_link:
 
@@ -61,3 +61,7 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+  - icon: linkedin
+    url: https://linkedin.com/homayooon-alimohammadi
+    desc: Connect in LinkedIn
