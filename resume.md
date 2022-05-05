@@ -255,10 +255,19 @@ Iran's National 2018 Universities Entrance Exam for B.Sc. (Konkur)
 </p>
 </div>
 <hr>
-<p>
+<div>
 <h2><b>Interests</b></h2>
 <hr>
 <p>
-Blockchain &emsp; - &emsp; Cload Computing &emsp; - &emsp; Distributed Systems &emsp; - &emsp; Machine Learning
+<!-- Blockchain &emsp; - &emsp; Cload Computing &emsp; - &emsp; Distributed Systems &emsp; - &emsp; Machine Learning -->
+
+<table>
+    <tr>
+        <td>Blockchain</td>
+        <td>Cloud Computing</td>
+        <td>Machine Learning</td>    
+        <td>Distributed Systems</td>
+    </tr>
+</table>
 </p>
-</p>
+</div>

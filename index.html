@@ -23,8 +23,7 @@ layout: default
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
-      <strong><a href={{ "/about/" | prepend: site.baseurl }}>About</a></strong>
-      &nbsp;&nbsp;·&nbsp;&nbsp;
+
       <strong><a href={{ "/resume/" | prepend: site.baseurl }}>Resume</a></strong>
       &nbsp;&nbsp;·&nbsp;&nbsp;
       <strong><a href={{ "/projects/" | prepend: site.baseurl }}>Projects</a></strong>
@@ -34,60 +33,47 @@ layout: default
 
 <main class="content" role="main">
 
-    {% if site.tags.featured %}
-    <h5 class="index-headline featured"><span>Featured</span></h5>
 
-    <div class="container featured">
-      {% for post in site.tags.featured %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
-            </div>
-          </div>
-        </article>
-      {% endfor %}
+  <div>
+    <h3>Hello guys!</h3> 
+    <p>
+    My name is <b>Homayoon</b>! I'm currently studying BSc. in <a href="https://en.sharif.edu">Sharif University of Technology</a>, Iran.<br/>
+    I'm passionate a <b>Full Stack Developer</b>, with most interest and experience in <b>Backend Technologies</b>.<br/>
+    Considering <b>Blockchain</b>, <b>Distributed Systems</b> and <b>DApps</b> as my long-term career path. Have been dedicatedly learning and searching this interesting and immense field.<br/>
+    Focued on learning related skills and improve in what I do, every single day.<br/>
+    Also have intermediate experience in <b>Data Science</b> and <b>Machine Learning</b>.
+    </p>
     </div>
-
-    <h5 class="index-headline normal"><span>Regular</span></h5>
-    {% endif %}
-
-    <div class="cf frame">
-      {% for post in paginator.posts %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <div class="post-meta">
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
-            </div>
-          </div>
-        </article>
-      {% endfor %}
+    
+    <p>
+    Make sure to <b>Contact</b> me if you needed to:
+    </p>
+    <div align="center">
+    
+    <a href="https://homayoonalimohammadi.github.io">
+    <img src="https://img.shields.io/badge/GitHub.io-silver?style=for-the-badge&logo=GitHub&logoColor=black">
+    </a>
+    
+    <a href="https://www.linkedin.com/in/homayoon-alimohammadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    
+    <a href="https://twitter.com/homayoonalm">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+    
     </div>
-
-    <nav class="pagination" role="navigation">
-      {% if paginator.next_page %}
-        <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
-      {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.previous_page %}
-        {% if paginator.page == 2 %}
-          <a class="older-posts" href={{ "/" | prepend: site.baseurl }}>Newer posts &rarr;</a>
-        {% else %}
-          <a class="older-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.previous_page }}>Newer posts &rarr;</a>
-        {% endif %}
-      {% endif %}
-    </nav>
-
-
-    <!-- {{!! After all the posts, we have the previous/next pagination links }}
-    {{pagination}} -->
+    
+    <div>
+    <p>
+    - Also Consider Checking out my Instagram (it's in <b>Persian</b>)
+    </p>
+    <a href="https://www.instagram.com/code_bama/">
+    <p align="center">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </p>
+    </a>
+    </div>
+        
 
 </main>
