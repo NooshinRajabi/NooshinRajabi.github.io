@@ -40,27 +40,17 @@ social:
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
+    
   - icon:	github
     url:	https://github.com/HomayoonAlimohammadi
-    desc:	Follow me on github
+    desc:	Follow me on Github
     share_url: 
     share_title:
     share_link:
 
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+  - icon: gitlab
+    url: https://gitlab.com/HomayoonAlimohammadi
+    desc: Follow me on Gitlab
 
   - icon: linkedin
     url: https://www.linkedin.com/in/homayoon-alimohammadi/
