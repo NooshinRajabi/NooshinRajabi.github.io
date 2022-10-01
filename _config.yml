@@ -4,28 +4,28 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Homayoon"
+title: "Nooshin"
 description: > # this means to ignore newlines until "email:"
    My Personal Website
 
-email: homayoonalimohammadi@gmail.com
+email: noshin.rajabi2018@gmail.com
 #blog logo
-logo: "/assets/images/Me.jpg"
+logo: "/assets/images/Nooshin.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/Cover_2.jpg"
+cover: "/assets/images/NooshinCover.jpg"
 
-name: 'Homayoon Alimohammadi'
-author: 'Homayoon Alimohammadi'
-author_image: "/assets/images/Me_300_300.jpg"
+name: 'Nooshin Rajabi'
+author: 'Nooshin Rajabi'
+author_image: "/assets/images/Nooshin.jpg"
 
 paginate:	5
 
-url: "https://homayoonalimohammadi.github.io" # the base hostname & protocol for your site
+url: "https://nooshinrajabi.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@HomayoonAlm'
+twitter_handle: '@NushinRajabi'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,23 +35,19 @@ twitter_handle: '@HomayoonAlm'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/HomayoonAlm
+    url:	https://twitter.com/NooshinRajabi
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
     
   - icon:	github
-    url:	https://github.com/HomayoonAlimohammadi
+    url:	https://github.com/NooshinRajabi
     desc:	Follow me on Github
     share_url: 
     share_title:
     share_link:
 
-  - icon: gitlab
-    url: https://gitlab.com/HomayoonAlimohammadi
-    desc: Follow me on Gitlab
-
   - icon: linkedin
-    url: https://www.linkedin.com/in/homayoon-alimohammadi/
+    url: https://www.linkedin.com/in/nooshin-rajabi/
     desc: Connect in LinkedIn
