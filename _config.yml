@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Nooshin"
 description: > # this means to ignore newlines until "email:"
-   My Personal Website
+  My Personal Website
 
 email: nooshin.rajabi1999@gmail.com
 #blog logo
@@ -14,18 +14,18 @@ logo: "/assets/images/Nooshin.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/Cover_2.jpg"
+cover: "/assets/images/NooshinCover2.jpg"
 
-name: 'Nooshin Rajabi'
-author: 'Nooshin Rajabi'
+name: "Nooshin Rajabi"
+author: "Nooshin Rajabi"
 author_image: "/assets/images/Nooshin.jpg"
 
-paginate:	5
+paginate: 5
 
 url: "https://nooshinrajabi.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@NushinRajabi'
+twitter_handle: "@NushinRajabi"
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -34,17 +34,17 @@ twitter_handle: '@NushinRajabi'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/NooshinRajabi
+  - icon: twitter
+    url: https://twitter.com/NooshinRajabi
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
-    
-  - icon:	github
-    url:	https://github.com/NooshinRajabi
-    desc:	Follow me on Github
-    share_url: 
+
+  - icon: github
+    url: https://github.com/NooshinRajabi
+    desc: Follow me on Github
+    share_url:
     share_title:
     share_link:
 
